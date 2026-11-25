@@ -1,6 +1,6 @@
 # inph-csf-meta
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI_PLACEHOLDER.svg)](https://doi.org/ZENODO_DOI_PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24524958.svg)](https://doi.org/10.5281/zenodo.24524958)
 
 R pipeline and study-level data for the systematic review and meta-analysis
 
@@ -93,7 +93,7 @@ Supplementary Tables S1–S2 (JBI appraisal), S9 (QUADAS-2) and S10 (study chara
 
 ## Citation
 
-Please cite the article and this archive (`CITATION.cff`; DOI: ZENODO_DOI_PLACEHOLDER). When reusing
+Please cite the article and this archive (`CITATION.cff`; DOI: 10.5281/zenodo.24524958). When reusing
 the extracted values, please also cite the original studies.
 
 ## Licence

@@ -4,6 +4,8 @@ title: "inph-csf-meta: R pipeline for the meta-analysis of CSF biomarker profile
 version: 1.0.0
 date-released: 2026-11-25
 license: MIT
+doi: 10.5281/zenodo.24524958
+repository-code: "https://github.com/masud-l/inph-csf-meta"
 type: software
 authors:
   - family-names: Nila
