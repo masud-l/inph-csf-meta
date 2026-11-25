@@ -1,0 +1,124 @@
+"variable","characteristic","biomarker","comparison","group","k","in_test","estimate","ci_lb","ci_ub","I2"
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_HC","International guidelines (Relkin 2005)",11,TRUE,-1.23198200575056,-1.52319171016116,-0.940772301339967,65.3100585996217
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_HC","Japanese guidelines (any edition)",7,TRUE,-0.599556356927948,-0.877655082480985,-0.32145763137491,20.2414966282359
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_HC","Other criteria",3,TRUE,-1.45442205247434,-1.79944126909874,-1.10940283584994,0
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_AD","International guidelines (Relkin 2005)",13,TRUE,0.666375698967419,0.321912413054383,1.01083898488046,83.968016125345
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_AD","Japanese guidelines (any edition)",7,TRUE,0.357343656536763,-0.231803031524389,0.946490344597914,84.160828963991
+"iNPH_criteria","iNPH diagnostic criteria","AB42","iNPH_vs_AD","Other criteria",2,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_HC","International guidelines (Relkin 2005)",11,TRUE,-0.998211945957384,-1.32566040107384,-0.670763490840928,74.3449056061308
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_HC","Japanese guidelines (any edition)",7,TRUE,-0.30569631654964,-0.646951822682864,0.0355591895835843,46.855104092177
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_HC","Other criteria",2,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_AD","International guidelines (Relkin 2005)",13,TRUE,-2.18376404497132,-2.69013593284695,-1.67739215709569,89.34727455855
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_AD","Japanese guidelines (any edition)",8,TRUE,-2.92288810677961,-3.48952629311098,-2.35624992044824,78.1369464336713
+"iNPH_criteria","iNPH diagnostic criteria","pTau181","iNPH_vs_AD","Other criteria",1,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_HC","International guidelines (Relkin 2005)",11,TRUE,-0.691414346858031,-1.0564989069327,-0.32632978678336,80.3929029136772
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_HC","Japanese guidelines (any edition)",5,TRUE,-0.776994678124669,-1.2287220108769,-0.325267345372437,63.2103203712719
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_HC","Other criteria",3,TRUE,-0.261361524923598,-1.44151453046951,0.918791480622315,92.0013117006435
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_AD","International guidelines (Relkin 2005)",14,TRUE,-2.06486334910549,-2.51834698870923,-1.61137970950175,88.0133914566722
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_AD","Japanese guidelines (any edition)",6,TRUE,-2.59911849412394,-3.13174063597497,-2.0664963522729,72.3435834823553
+"iNPH_criteria","iNPH diagnostic criteria","tTau","iNPH_vs_AD","Other criteria",2,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","NFL","iNPH_vs_HC","International guidelines (Relkin 2005)",4,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","NFL","iNPH_vs_HC","Japanese guidelines (any edition)",1,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","NFL","iNPH_vs_HC","Other criteria",1,FALSE,NA,NA,NA,NA
+"iNPH_criteria","iNPH diagnostic criteria","NFL","iNPH_vs_AD","International guidelines (Relkin 2005)",4,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","AB42","iNPH_vs_HC","Clinical controls without neurodegeneration",12,TRUE,-1.052247752033,-1.25204045819954,-0.85245504586647,42.048152685361
+"HC_control_type","Healthy-control type","AB42","iNPH_vs_HC","Healthy volunteers",4,TRUE,-1.01230305377507,-1.95225618471791,-0.0723499228322286,86.7608538346796
+"HC_control_type","Healthy-control type","AB42","iNPH_vs_HC","Not reported",5,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","pTau181","iNPH_vs_HC","Clinical controls without neurodegeneration",11,TRUE,-0.728936053438948,-1.08017323714749,-0.377698869730401,81.4738277538933
+"HC_control_type","Healthy-control type","pTau181","iNPH_vs_HC","Healthy volunteers",3,TRUE,-0.784823971747474,-1.59998816309098,0.030340219596029,74.3376429589478
+"HC_control_type","Healthy-control type","pTau181","iNPH_vs_HC","Not reported",6,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","tTau","iNPH_vs_HC","Clinical controls without neurodegeneration",12,TRUE,-0.540459116367752,-0.924533774705231,-0.156384458030273,85.3686508909381
+"HC_control_type","Healthy-control type","tTau","iNPH_vs_HC","Healthy volunteers",3,TRUE,-1.30052066638285,-1.90273275895548,-0.698308573810221,61.285441152685
+"HC_control_type","Healthy-control type","tTau","iNPH_vs_HC","Not reported",4,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","NFL","iNPH_vs_HC","Clinical controls without neurodegeneration",4,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","NFL","iNPH_vs_HC","Healthy volunteers",1,FALSE,NA,NA,NA,NA
+"HC_control_type","Healthy-control type","NFL","iNPH_vs_HC","Not reported",1,FALSE,NA,NA,NA,NA
+"assay","Assay platform","AB42","iNPH_vs_HC","INNOTEST ELISA",11,TRUE,-1.15643080421574,-1.5146471159846,-0.798214492446869,69.7888208608953
+"assay","Assay platform","AB42","iNPH_vs_HC","Not reported",3,FALSE,NA,NA,NA,NA
+"assay","Assay platform","AB42","iNPH_vs_HC","Other platforms",7,TRUE,-0.837440969115038,-1.17573998154794,-0.499141956682132,60.7320237307043
+"assay","Assay platform","AB42","iNPH_vs_AD","INNOTEST ELISA",12,TRUE,0.546832720370933,0.193987004057922,0.899678436683944,76.4476778945616
+"assay","Assay platform","AB42","iNPH_vs_AD","Not reported",1,FALSE,NA,NA,NA,NA
+"assay","Assay platform","AB42","iNPH_vs_AD","Other platforms",9,TRUE,0.435005429860646,-0.0568659350609196,0.926876794782211,89.3771492949026
+"assay","Assay platform","pTau181","iNPH_vs_HC","INNOTEST ELISA",12,TRUE,-0.788898365515737,-1.13897076792472,-0.438825963106749,74.251181043366
+"assay","Assay platform","pTau181","iNPH_vs_HC","Not reported",2,FALSE,NA,NA,NA,NA
+"assay","Assay platform","pTau181","iNPH_vs_HC","Other platforms",6,TRUE,-0.817456278634267,-1.30297267551753,-0.331939881751006,80.1787623688182
+"assay","Assay platform","pTau181","iNPH_vs_AD","INNOTEST ELISA",14,TRUE,-2.450825238519,-2.9982137754191,-1.9034367016189,88.0816401963981
+"assay","Assay platform","pTau181","iNPH_vs_AD","Other platforms",8,TRUE,-2.34933617960892,-2.88972810548021,-1.80894425373764,87.0849484230911
+"assay","Assay platform","tTau","iNPH_vs_HC","INNOTEST ELISA",11,TRUE,-0.392367624606327,-0.731341497352368,-0.0533937518602866,73.8512150861572
+"assay","Assay platform","tTau","iNPH_vs_HC","Not reported",3,FALSE,NA,NA,NA,NA
+"assay","Assay platform","tTau","iNPH_vs_HC","Other platforms",5,TRUE,-0.89415996330516,-1.42145752122757,-0.366862405382747,78.8380569953887
+"assay","Assay platform","tTau","iNPH_vs_AD","INNOTEST ELISA",12,TRUE,-1.91086974584337,-2.46453472733146,-1.35720476435527,88.149641666445
+"assay","Assay platform","tTau","iNPH_vs_AD","Not reported",1,FALSE,NA,NA,NA,NA
+"assay","Assay platform","tTau","iNPH_vs_AD","Other platforms",9,TRUE,-2.30604663052621,-2.85917244954598,-1.75292081150644,88.9177733144715
+"assay","Assay platform","NFL","iNPH_vs_HC","Not reported",1,FALSE,NA,NA,NA,NA
+"assay","Assay platform","NFL","iNPH_vs_HC","Other platforms",5,FALSE,NA,NA,NA,NA
+"assay","Assay platform","NFL","iNPH_vs_AD","Other platforms",4,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_HC","Diagnostic work-up LP",3,TRUE,-1.36530515295656,-2.31210480862894,-0.418505497284173,80.9324346618038
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_HC","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_HC","Not reported",7,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_HC","Tap test",10,TRUE,-0.952255068015091,-1.33840559760588,-0.566104538424298,73.3395644992545
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_AD","Diagnostic work-up LP",3,TRUE,0.487620037184848,0.140232740541237,0.83500733382846,0
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_AD","Not reported",7,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","AB42","iNPH_vs_AD","Tap test",12,TRUE,0.719766972744446,0.360063007804224,1.07947093768467,79.7037005618784
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_HC","Diagnostic work-up LP",3,TRUE,-0.763745781417983,-1.77773940228388,0.250247839447909,85.4557716782905
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_HC","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_HC","Not reported",7,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_HC","Tap test",9,TRUE,-0.937804397797196,-1.20384705053628,-0.671761745058107,42.5216439700676
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_AD","Diagnostic work-up LP",3,TRUE,-2.65455637330828,-3.70802034068218,-1.60109240593438,78.5940265219303
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_AD","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_AD","Not reported",7,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","pTau181","iNPH_vs_AD","Tap test",11,TRUE,-2.34013398174876,-2.9828322681603,-1.69743569533722,90.5583216724097
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_HC","Diagnostic work-up LP",3,TRUE,-1.10373320574447,-1.61155737849703,-0.595909032991902,41.9813111492976
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_HC","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_HC","Not reported",6,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_HC","Tap test",9,TRUE,-0.61723379367254,-1.05382680812816,-0.180640779216924,80.4139378362974
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_AD","Diagnostic work-up LP",3,TRUE,-2.67050908794323,-3.95332804011648,-1.38769013576998,85.3434765429264
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_AD","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_AD","Not reported",6,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","tTau","iNPH_vs_AD","Tap test",12,TRUE,-1.85582778063591,-2.35268568522981,-1.358969876042,87.0031825813988
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_HC","Diagnostic work-up LP",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_HC","Mixed",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_HC","Not reported",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_HC","Tap test",3,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_AD","Diagnostic work-up LP",1,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_AD","Not reported",2,FALSE,NA,NA,NA,NA
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","NFL","iNPH_vs_AD","Tap test",1,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","AB42","iNPH_vs_AD","IWG-2",2,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","AB42","iNPH_vs_AD","NIA-AA 2011",6,TRUE,0.354258965606591,-0.328215202799355,1.03673313401254,92.0285418847062
+"AD_criteria","AD diagnostic criteria","AB42","iNPH_vs_AD","NINCDS-ADRDA 1984",12,TRUE,0.54794038072008,0.276751249070074,0.819129512370086,56.7179484212403
+"AD_criteria","AD diagnostic criteria","AB42","iNPH_vs_AD","Other criteria",2,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","pTau181","iNPH_vs_AD","IWG-2",2,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","pTau181","iNPH_vs_AD","NIA-AA 2011",5,TRUE,-2.02520312563449,-2.70778086973812,-1.34262538153087,87.3929080104644
+"AD_criteria","AD diagnostic criteria","pTau181","iNPH_vs_AD","NINCDS-ADRDA 1984",12,TRUE,-2.34797651018429,-2.91073415703002,-1.78521886333855,86.2382323693251
+"AD_criteria","AD diagnostic criteria","pTau181","iNPH_vs_AD","Other criteria",3,TRUE,-3.20539599561794,-4.34121987183864,-2.06957211939724,91.5081220063608
+"AD_criteria","AD diagnostic criteria","tTau","iNPH_vs_AD","IWG-2",2,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","tTau","iNPH_vs_AD","NIA-AA 2011",6,TRUE,-2.16445198783249,-2.84327658616426,-1.48562738950071,88.7510172117459
+"AD_criteria","AD diagnostic criteria","tTau","iNPH_vs_AD","NINCDS-ADRDA 1984",11,TRUE,-1.81254898543357,-2.39755773037618,-1.22754024049096,88.0172563182442
+"AD_criteria","AD diagnostic criteria","tTau","iNPH_vs_AD","Other criteria",3,TRUE,-2.64566896650777,-3.47581706408325,-1.81552086893229,86.5037127872862
+"AD_criteria","AD diagnostic criteria","NFL","iNPH_vs_AD","IWG-2",1,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","NFL","iNPH_vs_AD","NIA-AA 2011",2,FALSE,NA,NA,NA,NA
+"AD_criteria","AD diagnostic criteria","NFL","iNPH_vs_AD","NINCDS-ADRDA 1984",1,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_HC","No",9,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_HC","Not reported",10,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_HC","Yes",2,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_AD","No",7,TRUE,0.828572427456843,0.481987300757032,1.17515755415665,70.0600901775479
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_AD","Not reported",12,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","AB42","iNPH_vs_AD","Yes",3,TRUE,-0.186732974764807,-1.17748408548997,0.804018135960359,91.0519069403792
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_HC","No",9,TRUE,-0.80646609526408,-1.19001929001151,-0.422912900516654,80.2209531660729
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_HC","Not reported",8,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_HC","Yes",3,TRUE,-0.929471055461389,-1.7248168861262,-0.134125224796576,79.556466231094
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_AD","No",8,TRUE,-2.89785116095212,-3.4764082594923,-2.31929406241193,85.7247859920496
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_AD","Not reported",11,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","pTau181","iNPH_vs_AD","Yes",3,TRUE,-2.14619466753914,-2.99431995219667,-1.2980693828816,81.2779754726803
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_HC","No",9,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_HC","Not reported",9,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_HC","Yes",1,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_AD","No",8,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_AD","Not reported",12,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","tTau","iNPH_vs_AD","Yes",2,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_HC","No",3,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_HC","Not reported",1,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_HC","Yes",2,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_AD","No",2,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_AD","Not reported",1,FALSE,NA,NA,NA,NA
+"shunt_responders_only","iNPH restricted to shunt responders","NFL","iNPH_vs_AD","Yes",1,FALSE,NA,NA,NA,NA

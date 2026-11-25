@@ -1,0 +1,7 @@
+"biomarker","comparison","k","mod_egger_z","mod_egger_p","egger_z","egger_p","limit_est","limit_lb","limit_ub","testable"
+"Aβ42","iNPH vs Healthy Controls",21,0.818,0.4136,-0.118,0.906,-1.009,-1.831,-0.188,TRUE
+"Aβ42","iNPH vs Alzheimer Disease",22,0.753,0.4513,1.226,0.2202,-0.036,-0.999,0.927,TRUE
+"p-tau181","iNPH vs Healthy Controls",20,1.011,0.3121,0.423,0.672,-0.992,-1.938,-0.046,TRUE
+"p-tau181","iNPH vs Alzheimer Disease",22,-0.21,0.8335,-2.288,0.0221,-1.236,-2.299,-0.174,TRUE
+"Total tau","iNPH vs Healthy Controls",19,0.58,0.5622,0.061,0.9514,-0.68,-1.814,0.454,TRUE
+"Total tau","iNPH vs Alzheimer Disease",22,0.665,0.5058,-1.166,0.2436,-1.438,-2.615,-0.262,TRUE

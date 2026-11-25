@@ -1,0 +1,35 @@
+"comparison","biomarker","k","poolable"
+"iNPH_vs_AD","AB42",22,TRUE
+"iNPH_vs_AD","pTau181",22,TRUE
+"iNPH_vs_AD","tTau",22,TRUE
+"iNPH_vs_AD","AB42/AB40",6,TRUE
+"iNPH_vs_AD","AB40",5,TRUE
+"iNPH_vs_AD","NFL",4,TRUE
+"iNPH_vs_AD","pTau/AB42",3,TRUE
+"iNPH_vs_AD","sAPPalpha",3,TRUE
+"iNPH_vs_AD","tTau/AB42",3,TRUE
+"iNPH_vs_AD","pTau/tTau",2,FALSE
+"iNPH_vs_AD","sAPPbeta",2,FALSE
+"iNPH_vs_AD","AB oligomers",1,FALSE
+"iNPH_vs_AD","AB38",1,FALSE
+"iNPH_vs_AD","AB42/pTau",1,FALSE
+"iNPH_vs_AD","MCP-1",1,FALSE
+"iNPH_vs_AD","sAPP",1,FALSE
+"iNPH_vs_HC","AB42",21,TRUE
+"iNPH_vs_HC","pTau181",20,TRUE
+"iNPH_vs_HC","tTau",19,TRUE
+"iNPH_vs_HC","NFL",6,TRUE
+"iNPH_vs_HC","AB40",4,TRUE
+"iNPH_vs_HC","AB42/AB40",4,TRUE
+"iNPH_vs_HC","sAPPalpha",3,TRUE
+"iNPH_vs_HC","IL-8",2,FALSE
+"iNPH_vs_HC","YKL-40",2,FALSE
+"iNPH_vs_HC","pTau/AB42",2,FALSE
+"iNPH_vs_HC","sAPPbeta",2,FALSE
+"iNPH_vs_HC","tTau/AB42",2,FALSE
+"iNPH_vs_HC","AB oligomers",1,FALSE
+"iNPH_vs_HC","AB38",1,FALSE
+"iNPH_vs_HC","MBP",1,FALSE
+"iNPH_vs_HC","MCP-1",1,FALSE
+"iNPH_vs_HC","Sulfatide",1,FALSE
+"iNPH_vs_HC","sAPP",1,FALSE

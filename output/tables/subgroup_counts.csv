@@ -1,0 +1,30 @@
+"variable","characteristic","group","studies","of"
+"iNPH_criteria","iNPH diagnostic criteria","International guidelines (Relkin 2005)",19,33
+"iNPH_criteria","iNPH diagnostic criteria","Japanese guidelines (any edition)",11,33
+"iNPH_criteria","iNPH diagnostic criteria","Other criteria",3,33
+"HC_control_type","Healthy-control type","Clinical controls without neurodegeneration",15,26
+"HC_control_type","Healthy-control type","Healthy volunteers",5,26
+"HC_control_type","Healthy-control type","Not reported",6,26
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","Diagnostic work-up LP",4,33
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","Mixed",2,33
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","Not reported",10,33
+"iNPH_CSF_indication","Indication for CSF sampling in iNPH","Tap test",17,33
+"AD_criteria","AD diagnostic criteria","IWG-2",2,25
+"AD_criteria","AD diagnostic criteria","NIA-AA 2011",7,25
+"AD_criteria","AD diagnostic criteria","NINCDS-ADRDA 1984",13,25
+"AD_criteria","AD diagnostic criteria","Other criteria",3,25
+"shunt_responders_only","iNPH restricted to shunt responders","No",13,33
+"shunt_responders_only","iNPH restricted to shunt responders","Not reported",16,33
+"shunt_responders_only","iNPH restricted to shunt responders","Yes",4,33
+"design","Recruitment design","Not reported",7,33
+"design","Recruitment design","Two-gate (separately recruited groups)",26,33
+"AD_dx_used_CSF","CSF used in the AD diagnosis","Not reported",19,25
+"AD_dx_used_CSF","CSF used in the AD diagnosis","Yes",6,25
+"ADpos_iNPH_excluded","AD-biomarker-positive iNPH excluded","No",4,33
+"ADpos_iNPH_excluded","AD-biomarker-positive iNPH excluded","Not reported",27,33
+"ADpos_iNPH_excluded","AD-biomarker-positive iNPH excluded","Yes",2,33
+"iNPH_certainty","iNPH diagnostic certainty","Definite / shunt-responsive",2,33
+"iNPH_certainty","iNPH diagnostic certainty","Mixed",1,33
+"iNPH_certainty","iNPH diagnostic certainty","Not reported",19,33
+"iNPH_certainty","iNPH diagnostic certainty","Possible",2,33
+"iNPH_certainty","iNPH diagnostic certainty","Probable",9,33

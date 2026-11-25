@@ -1,0 +1,3 @@
+"biomarker","comparison","k","sensitivity","sens_lo","sens_hi","sens_tau2","sens_I2","specificity","spec_lo","spec_hi","spec_tau2","spec_I2"
+"ab42","iNPH_vs_AD",5,52.9,30.5,74.2,0.974441566726167,86.5125087115117,83.3,74.9,89.3,0.154486827367138,48.6469552449943
+"p-tau181","iNPH_vs_AD",5,90.8,78.1,96.5,0.810793955222716,65.1869622380912,87.6,82.9,91.1,0,0

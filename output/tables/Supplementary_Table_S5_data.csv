@@ -1,0 +1,4 @@
+"Biomarker","Studies","Sensitivity","Specificity","AUC"
+"Aβ42",5,"52.4 (30.3–73.7)","82.1 (74.3–88.0)","0.808"
+"p-tau181",5,"90.8 (78.1–96.5)","87.6 (82.9–91.1)","Not estimable"
+"p-tau181 with Kawamura 2021 (sensitivity analysis)†",6,"92.2 (81.3–97.0)","87.9 (83.4–91.3)","Not estimable"

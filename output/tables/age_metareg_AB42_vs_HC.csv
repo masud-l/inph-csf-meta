@@ -1,0 +1,2 @@
+"biomarker","comparison","k","n_dropped","slope_per_year","ci_lb","ci_ub","p_value","R2_percent"
+"AB42","iNPH_vs_HC",21,0,0.1535,0.0482,0.2588,0.004282,40.8

@@ -1,0 +1,2 @@
+"biomarker","comparison","k","n_dropped","slope_per_year","ci_lb","ci_ub","p_value","R2_percent"
+"AB42","iNPH_vs_AD",22,0,-0.0746,-0.1934,0.0443,0.219,2.1

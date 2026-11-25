@@ -1,0 +1,16 @@
+{
+  "title": "inph-csf-meta: R pipeline for the meta-analysis of CSF biomarker profiles in idiopathic normal pressure hydrocephalus",
+  "upload_type": "software",
+  "description": "<p>Reproducible R pipeline (metafor, mada) and extracted study-level data for the systematic review and meta-analysis <em>Cerebrospinal fluid biomarker profiles of idiopathic normal pressure hydrocephalus compared with healthy controls and Alzheimer's disease</em>.</p><p>The pipeline pools standardized mean differences with random-effects models (REML) and 95% prediction intervals, pools diagnostic sensitivity and specificity for iNPH versus Alzheimer's disease, and runs leave-one-out, sensitivity, exploratory subgroup, age meta-regression and small-study analyses. It renders the supplementary figures and tables of the article.</p><p>Code: MIT licence. Data (<code>data/</code>) and result tables (<code>output/tables/</code>): CC BY 4.0.</p>",
+  "creators": [
+    {"name": "Nila, Irin Sultana", "affiliation": "Daegu Gyeongbuk Institute of Science and Technology (DGIST); Kyungpook National University"},
+    {"name": "Haque, Md. Masudul", "affiliation": "Daegu Gyeongbuk Institute of Science and Technology (DGIST); Kyungpook National University"},
+    {"name": "Kang, Kyunghun", "affiliation": "Kyungpook National University"},
+    {"name": "Park, Ki-Su", "affiliation": "Kyungpook National University"}
+  ],
+  "keywords": ["idiopathic normal pressure hydrocephalus", "cerebrospinal fluid", "biomarkers", "Alzheimer's disease", "meta-analysis", "diagnostic test accuracy", "R"],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}
